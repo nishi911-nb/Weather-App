@@ -1,0 +1,39 @@
+body{
+    margin: 20px;
+    background-color: rgb(224, 223, 223);
+}
+.location{
+    font-size: 35px;
+    text-align: center;
+}
+
+.weather{
+    font-size: 15px;
+    text-align: center;
+}
+
+.temperature{
+    font-size: 50px;
+    text-align: center;
+}
+
+input{
+    padding: 10px 105px;
+}
+
+.card{
+    display: none;
+    margin-left: 35%;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.icon{
+    position: relative;
+    top: -35px;
+    left: 38%;
+    padding: 30px;
+    background-color: rgb(253, 250, 250);
+    border-radius: 50%;
+    font-size: 30px;
+    width: 100px;
+}
